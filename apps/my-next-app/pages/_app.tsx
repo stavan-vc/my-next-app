@@ -3,7 +3,6 @@ import Head from 'next/head';
 import './styles.css';
 
 function CustomApp({ Component, pageProps }: AppProps) {
-  console.log("Test Commit");
   return (
     <>
       <Head>
